@@ -3,7 +3,7 @@ class Jipo < Formula
   homepage "https://github.com/Jipos/homebrew-tap"
 
   url "https://github.com/Jipos/homebrew-tap/blob/master/Formula/jipo-content.tar.gz"
-  sha256 "9357fc0e2cb88be9ccbb206bd6f3ea94c98b0850afe84a5b238af977fe4c39b1"
+  sha256 "e052957074384092c187ce5185b5f5ee8db97a614ce231ab9a83178b74e108a9"
 
   def install
     system "tar", "-xvf", "jipo-content.tar.gz"
